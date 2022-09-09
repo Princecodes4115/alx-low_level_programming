@@ -1,13 +1,11 @@
 #include <stdio.h>
-
 /**
 * main - prints the string in the put function
 *
 * Description: using the main function
-* This program print prints the size of various types on the computer it is compiled
+* this program prints the size of various types on the computer it is comiled
 * Return: 0
 */
-
 int main(void)
 {
 	char c;
