@@ -1,5 +1,7 @@
-#ifndef HOBERTON_H_INCLUDED
-#define HOBERTON_H_INCLUDED
+#ifndef MAIN_H
+#define MAIN_H
+
+#include <stdio.h>
 
 int putchar(char);
 void print_alphabet(void);
@@ -15,4 +17,4 @@ int add(int, int);
 void print_to_98(int n);
 void print_times_table(int n);
 
-#endif
+#endif /* MAIN_H */
