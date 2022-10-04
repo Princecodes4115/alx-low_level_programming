@@ -74,6 +74,7 @@ void look_pos(char *str, int *pos)
 * print_words - function that stores in m the words found in str
 * Return: 1 if fail.
 * @m: pointer to the matrix
+* @pos: pointer to the array with positions
 * @words: number of words
 * @str: pointer to the string
 */
