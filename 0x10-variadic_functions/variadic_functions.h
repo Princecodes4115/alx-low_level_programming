@@ -1,6 +1,6 @@
 #ifndef VAR_FUNC_H
 #define VAR_FUNC_H
-#include <starg.h>
+#include <sdarg.h>
 
 int sum_them_all(const unsigned int n, ...);
 void print_numbers(const char *separator, const unsigned int n, ...);
